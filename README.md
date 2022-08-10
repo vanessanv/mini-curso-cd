@@ -8,3 +8,6 @@ Para tentar minimizar os riscos o CEO pediu para o time de dados responder algum
 
 #### O que foi usado para resolver o problema
 Para responder todas as questões foi utilizada uma base de dados CSV com informações sobre os imóveis. Para a análise foi usada a linguagem Python e o Google Colabs.
+
+### Para executar 
+Para rodar o projeto basta baixar o arquivo CSV que está no repositório e abrir o código no Google Colabs. Quando mandar executar ele vai pedir para subir o arquivo de dados, nesse momento é necessário selecionar o CSV baixado anteriormente.
